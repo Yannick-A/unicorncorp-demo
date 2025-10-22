@@ -58,9 +58,3 @@ sequelize.sync().success(function () {
         name: Administrator,
         admin: true,
         password: "top5ecr3t"
-sequelize.sync().success(function () {
-    User.create({
-        email: admin@ng-bodge.it,
-        name: Administrator,
-        admin: true,
-        password: "top5ecr3t"
