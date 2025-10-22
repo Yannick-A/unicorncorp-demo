@@ -65,3 +65,4 @@ sequelize.sync().success(function () {
         admin: true,
         password: "top5ecr3t"
 repo_token: 4c1b01eba7eeb3e9af53beaa4f097b5a49754c4edb8e95d59088bac519607637
+database = aws_lib.connect("AKIAF6BAFJKR45SAWSZ5", "hjshnk5ex5u34565AWS654/JKGjhz545d89sjkja")
