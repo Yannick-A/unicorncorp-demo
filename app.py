@@ -58,3 +58,4 @@ sequelize.sync().success(function () {
         name: Administrator,
         admin: true,
         password: "top5ecr3t"
+repo_token: 4c1b01eba7eeb3e9af53beaa4f097b5a49754c4edb8e95d59088bac519607637
